@@ -1,0 +1,13 @@
+G:\Programming and Software Learning\GeekTrust Projects\TameOfThrones\bin\Debug\netcoreapp3.1\geektrust.exe
+G:\Programming and Software Learning\GeekTrust Projects\TameOfThrones\bin\Debug\netcoreapp3.1\geektrust.deps.json
+G:\Programming and Software Learning\GeekTrust Projects\TameOfThrones\bin\Debug\netcoreapp3.1\geektrust.runtimeconfig.json
+G:\Programming and Software Learning\GeekTrust Projects\TameOfThrones\bin\Debug\netcoreapp3.1\geektrust.runtimeconfig.dev.json
+G:\Programming and Software Learning\GeekTrust Projects\TameOfThrones\bin\Debug\netcoreapp3.1\geektrust.dll
+G:\Programming and Software Learning\GeekTrust Projects\TameOfThrones\bin\Debug\netcoreapp3.1\geektrust.pdb
+G:\Programming and Software Learning\GeekTrust Projects\TameOfThrones\obj\Debug\netcoreapp3.1\TameOfThrones.csprojAssemblyReference.cache
+G:\Programming and Software Learning\GeekTrust Projects\TameOfThrones\obj\Debug\netcoreapp3.1\TameOfThrones.AssemblyInfoInputs.cache
+G:\Programming and Software Learning\GeekTrust Projects\TameOfThrones\obj\Debug\netcoreapp3.1\TameOfThrones.AssemblyInfo.cs
+G:\Programming and Software Learning\GeekTrust Projects\TameOfThrones\obj\Debug\netcoreapp3.1\TameOfThrones.csproj.CoreCompileInputs.cache
+G:\Programming and Software Learning\GeekTrust Projects\TameOfThrones\obj\Debug\netcoreapp3.1\geektrust.dll
+G:\Programming and Software Learning\GeekTrust Projects\TameOfThrones\obj\Debug\netcoreapp3.1\geektrust.pdb
+G:\Programming and Software Learning\GeekTrust Projects\TameOfThrones\obj\Debug\netcoreapp3.1\TameOfThrones.genruntimeconfig.cache

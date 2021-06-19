@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TameOfThrones": {
+      "commandName": "Project",
+      "commandLineArgs": "InputFiles/input1.txt"
+    }
+  }
+}
